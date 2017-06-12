@@ -1,3 +1,5 @@
-*.ckpt.meta
+*.ckpt.*
 checkpoint
 logs
+big.txt
+.ipynb*
